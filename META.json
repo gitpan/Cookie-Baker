@@ -4,7 +4,7 @@
       "Masahiro Nagano <kazeburo@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.7.4",
+   "generated_by" : "Minilla/v0.8.0",
    "license" : [
       "perl_5"
    ],
@@ -58,7 +58,7 @@
    "provides" : {
       "Cookie::Baker" : {
          "file" : "lib/Cookie/Baker.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -72,5 +72,5 @@
          "web" : "https://github.com/kazeburo/Cookie-Baker"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
