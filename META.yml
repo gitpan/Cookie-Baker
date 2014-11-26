@@ -27,7 +27,7 @@ no_index:
 provides:
   Cookie::Baker:
     file: lib/Cookie/Baker.pm
-    version: '0.04'
+    version: '0.05'
 requires:
   Exporter: '0'
   URI::Escape: '0'
@@ -36,6 +36,6 @@ resources:
   bugtracker: https://github.com/kazeburo/Cookie-Baker/issues
   homepage: https://github.com/kazeburo/Cookie-Baker
   repository: git://github.com/kazeburo/Cookie-Baker.git
-version: '0.04'
+version: '0.05'
 x_contributors:
   - 'Olaf Alders <olaf@wundersolutions.com>'

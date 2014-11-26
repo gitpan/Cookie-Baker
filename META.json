@@ -60,7 +60,7 @@
    "provides" : {
       "Cookie::Baker" : {
          "file" : "lib/Cookie/Baker.pm",
-         "version" : "0.04"
+         "version" : "0.05"
       }
    },
    "release_status" : "stable",
@@ -74,7 +74,7 @@
          "web" : "https://github.com/kazeburo/Cookie-Baker"
       }
    },
-   "version" : "0.04",
+   "version" : "0.05",
    "x_contributors" : [
       "Olaf Alders <olaf@wundersolutions.com>"
    ]
